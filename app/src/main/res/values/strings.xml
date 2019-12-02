@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+    <string-array name="meals_names">
+        <item>----Choose Meal----</item>
+        <item>Burger</item>
+        <item>Coffee</item>
+        <item>Tea</item>
+        <item>Coke</item>
+        <item>Pizza</item>
+        <item>Pasta</item>
+        <item>Salad</item>
+        <item>Muffins</item>
+        <item>Wraps</item>
+        <item>Latte</item>
+    </string-array>
+</resources>
